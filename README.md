@@ -21,15 +21,15 @@
 - [X] 3.5 군집
 - [X] 3.6 요약 및 정리
 ## Chapter 4 데이터 표현과 특성 공학
-- [ ] 4.1 범주형 변수
-- [ ] 4.2 OneHotEncoder와 Column Transformer: scikit-learn으로 범주형 변수 다루기
-- [ ] 4.3 make_column_transformer로 간편하게 Column Transformer 만들기
-- [ ] 4.4 구간 분할, 이산화 그리고 선형 모델, 트리 모델
-- [ ] 4.5 상호작용과 다항식
-- [ ] 4.6 일변량 비선형 변환
-- [ ] 4.7 특성 자동 선택
-- [ ] 4.8 전문가 지식 활용
-- [ ] 4.9 요약 및 정리
+- [X] 4.1 범주형 변수
+- [X] 4.2 OneHotEncoder와 Column Transformer: scikit-learn으로 범주형 변수 다루기
+- [X] 4.3 make_column_transformer로 간편하게 Column Transformer 만들기
+- [X] 4.4 구간 분할, 이산화 그리고 선형 모델, 트리 모델
+- [X] 4.5 상호작용과 다항식
+- [X] 4.6 일변량 비선형 변환
+- [X] 4.7 특성 자동 선택
+- [X] 4.8 전문가 지식 활용
+- [X] 4.9 요약 및 정리
 ## Chapter 5 모델 평가와 성능 항상
 - [ ] 5.1 교차 검증
 - [ ] 5.2 그리드 서치
